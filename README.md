@@ -14,12 +14,12 @@ A console-based program that lets you enter a student's name and returns their m
 - Graceful handling for unknown names
 
 ### 📥 Input Example:
-```bash
+
 Enter the student's name: virat
 📤 Output Example:
 
 Virat's marks: 30
-📌 Task 2: 🔁 List Slicing & Reversing
+## 📌 Task 2: 🔁 List Slicing & Reversing
 This program demonstrates how to:
 
 Generate a list from 1 to 10
@@ -28,7 +28,7 @@ Slice the first 5 elements
 
 Reverse those sliced elements
 
-📤 Sample Output:
+### 📤 Sample Output:
 
 Original list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 Extracted first five elements: [1, 2, 3, 4, 5]
@@ -36,17 +36,12 @@ Reversed extracted elements: [5, 4, 3, 2, 1]
 🛠️ How to Run
 Make sure Python 3 is installed.
 
-# Run Task 1
+#### Run Task 1
 python task1.py
 
-# Run Task 2
+#### Run Task 2
 python task2.py
-📁 File Structure
 
-📦 python-tasks/
- ┣ 📄 task1.py         # Student marks lookup
- ┣ 📄 task2.py         # List slicing and reversing
- ┗ 📄 README.md        # This file
 🧠 Concepts Covered
 Python input() and string methods
 
